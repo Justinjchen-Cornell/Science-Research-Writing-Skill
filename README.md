@@ -68,7 +68,12 @@ Plus: [glossary.md](glossary.md) · [patterns.md](patterns.md) · [cheatsheet.md
 → loads the 11-group frequency scale (always → never, with the 50% anchor)
 ```
 
+## 📸 In Action
+
+![science-research-writing in action](assets/usage-screenshot.png)
+
 ## 📖 About the Book
+
 
 **Science Research Writing for Non-Native Speakers of English** · Hilary Glasman-Deal · Imperial College Press (2010).
 A 30-year EAP practitioner's do-it-yourself manual: examine good examples → identify structure, grammar, vocabulary → apply them in your own writing. Aimed at IELTS 6.0+ / TOEFL 550+.
