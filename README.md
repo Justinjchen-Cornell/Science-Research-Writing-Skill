@@ -25,7 +25,8 @@ Not a summary. A **toolkit**. The book's core insight: *science writing is conve
 git clone https://github.com/Justinjchen-Cornell/Science-Research-Writing-Skill.git
 cp -r Science-Research-Writing-Skill ~/.claude/skills/science-research-writing
 # or
-bash install.sh
+bash install.sh        # macOS / Linux
+install.ps1            # Windows (PowerShell)
 ```
 
 Restart your agent session. Verify with:
