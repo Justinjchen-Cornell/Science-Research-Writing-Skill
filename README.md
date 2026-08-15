@@ -76,6 +76,15 @@ Try it yourself in one minute: open the [before/after demo](docs/demo.md) (broke
 
 ![science-research-writing in action](assets/usage-screenshot.png)
 
+## 📚 Study Notes — Learn It With Me
+
+Follow the complete 7-chapter study course, chapter by chapter, with worked examples and a full practice paper (a GOR-based asset allocation system) built live:
+
+- [Start here: study map](docs/study-notes/00-学习地图.md)
+- [Chapter notes index](docs/study-notes/README.md) — 7 chapters + real-paper annotation practice
+
+Every chapter: explanation → worked case → practice → self-check list.
+
 ## 📖 About the Book
 
 
