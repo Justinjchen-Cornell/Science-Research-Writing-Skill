@@ -85,6 +85,13 @@ Follow the complete 7-chapter study course, chapter by chapter, with worked exam
 
 Every chapter: explanation → worked case → practice → self-check list.
 
+## 📐 Reuse the Template — Turn Any Book into a Course
+
+The 7-chapter study course above was produced with a reusable template pack. Fork it and apply it to any book:
+
+- [Template pack](docs/study-template/README.md) — 4-step workflow + 4 file templates (study map / chapter notes / material annotation / practice work)
+- Book-type adaptation guide (methodology / mental-model / manual / industry-analysis books)
+
 ## 📖 About the Book
 
 
