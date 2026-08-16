@@ -88,5 +88,5 @@ Follow the complete course chapter by chapter (with a full practice paper — a 
 ## 🤝 Related
 
 - [book-to-skill](https://github.com/virgiliojr94/book-to-skill) — the open-source pipeline that generated this skill
-- **Book-Skills series**: [Maos-Redbook](https://github.com/Justinjchen-Cornell/Maos-Redbook) — 5 strategic frameworks from Mao's Selected Works (asymmetric competition, dialectical thinking)
+- **Book-Skills series**: [series index](https://github.com/Justinjchen-Cornell/chenjia-book-skills) · [Maos-Redbook](https://github.com/Justinjchen-Cornell/Maos-Redbook) — 5 strategic frameworks from Mao's Selected Works
 - [CHANGELOG](CHANGELOG.md) · [Contributing](CONTRIBUTING.md)
