@@ -1,6 +1,6 @@
 ---
 name: science-research-writing
-description: "Knowledge base from 'Science Research Writing for Non-Native Speakers of English' by Hilary Glasman-Deal (Imperial College London). Use when writing any section of a science research paper or thesis (Introduction, Methodology, Results, Discussion, Abstract), choosing verb tenses or passive/active voice, hedging causal claims, using a/the, signalling language, creating titles, or when asked to review/edit an academic paper's structure."
+description: "Knowledge base from 'Science Research Writing for Non-Native Speakers of English' by Hilary Glasman-Deal (Imperial College London). Use when writing any section of a science research paper or thesis (Introduction, Methodology, Results, Discussion, Abstract), choosing verb tenses or passive/active voice, hedging causal claims, using a/the, signalling language, creating titles, or when asked to review/edit an academic paper's structure. 学术论文写作知识库：写论文各章节（引言/方法/结果/讨论/摘要）、选时态/被动语态、软化因果断言、用 a/the、起标题、审阅修改论文时使用。"
 ---
 
 <!-- argument-hint: [topic, framework name, or chapter number] -->
