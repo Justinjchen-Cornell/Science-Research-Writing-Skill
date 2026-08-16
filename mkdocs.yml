@@ -1,0 +1,47 @@
+site_name: Science Research Writing — Skill & Study Notes
+site_description: Agent skill + 7-chapter Chinese study course for scientific paper writing
+repo_url: https://github.com/Justinjchen-Cornell/Science-Research-Writing-Skill
+docs_dir: docs
+theme:
+  name: material
+  language: zh
+  features:
+    - navigation.sections
+    - navigation.top
+    - toc.integrate
+  palette:
+    - scheme: default
+      primary: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+nav:
+  - 首页: index.md
+  - 60秒 Demo: demo.md
+  - 学习笔记:
+      - 索引: study-notes/README.md
+      - 学习地图: study-notes/00-学习地图.md
+      - 第1章 核心方法论: study-notes/ch01-核心方法论.md
+      - 练习-论文标注: study-notes/ch01-练习-目标论文标注.md
+      - 第2章 Introduction: study-notes/ch02-Introduction.md
+      - 第3章 Methodology: study-notes/ch03-Methodology.md
+      - 第4章 Results: study-notes/ch04-Results.md
+      - 第5章 Discussion: study-notes/ch05-Discussion.md
+      - 第6章 Abstract & Title: study-notes/ch06-Abstract-Title.md
+      - 第7章 参考工具包: study-notes/ch07-参考工具包.md
+  - 模板包:
+      - 说明: study-template/README.md
+      - 学习地图模板: study-template/00-学习地图-TEMPLATE.md
+      - 章节模板: study-template/chNN-章节-TEMPLATE.md
+      - 素材标注模板: study-template/练习-素材标注-TEMPLATE.md
+      - 实战模板: study-template/实战-成品-TEMPLATE.md
+markdown_extensions:
+  - tables
+  - admonition
+  - toc:
+      permalink: true
